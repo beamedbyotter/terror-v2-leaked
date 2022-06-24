@@ -1,8 +1,4 @@
-// Decompiled with JetBrains decompiler
-// Type: E_Ware.Form1
-// Assembly: E-Ware, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-// MVID: 56F57F2F-17CE-432C-9F8C-DEF85ED54F31
-// Assembly location: C:\Users\217jo\Downloads\Terror V2\Terror\dontrunme.exe
+// beeeeeeeeeeeeeeeeeeemed
 
 using FastColoredTextBoxNS;
 using System;
